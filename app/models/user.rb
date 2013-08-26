@@ -11,4 +11,6 @@ class User < ActiveRecord::Base
 
   #Validate user presence
   validates_presence_of :name
+
+  has_many :pins
 end
