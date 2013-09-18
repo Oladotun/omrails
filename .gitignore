@@ -25,3 +25,6 @@ doc/
 # Ignore Paper Clip uploaded Clip
 
 /public/system
+
+#Ignore Faker Sample Images
+/sampleimages
